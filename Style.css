@@ -1,0 +1,79 @@
+body {
+	background-color: RED;
+	
+}
+
+#container {
+	background-color: white;
+	
+	
+}
+
+
+
+#header {
+	
+	background-color: red;
+	color: yellow;
+	text-align: center;
+	width:100%;
+	
+}
+
+#content {
+	
+	
+	
+		
+}
+
+#leftbar {
+	background-color: lightgrey;
+	float:left;
+    width:20%;
+	height:100%;
+}
+
+#centerbar {
+	
+	background-color:bluegrey;
+	display: inline-block;
+    width:40%;
+	height:100%;
+}
+
+#rightbar {
+	background-color: lightgrey;
+	float:right;
+    width:20%;
+	height:100%;
+}
+
+
+#footer {
+	
+	background-color: red;
+	color:Yellow;
+	clear: both;
+	text-align: center;
+	padding: 10px;
+}
+
+#centerbar .selected {
+	
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	
+	margin: 0;
+}
+
+#leftbar ul {
+	list-style-type: none;
+	padding: 0px;
+}
